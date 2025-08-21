@@ -66,8 +66,9 @@
 
 ###
 
-<p align="center"><img  src=https://github-readme-stats.vercel.app/api/top-langs/?username=rominaosorio&layout=compact&hide=html
- alt="estadistcas" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominaosorio&layout=compact&hide=html&cache_seconds=3600" alt="estadísticas de lenguajes" />
+</p>
 
 
 ###
